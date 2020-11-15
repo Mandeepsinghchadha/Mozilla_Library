@@ -1,0 +1,1 @@
+include ':app', ':FirefoxLite_Downloader_Library'
