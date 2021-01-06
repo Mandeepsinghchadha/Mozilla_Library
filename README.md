@@ -8,3 +8,5 @@ features. It could be severely improved with the ability to pause / resume / can
 along with additional features such as scheduling the downloads according to
 user’s convenience . This could help us improve the overall user experience and enable a more
 rich use of the download manager.
+
+https://user-images.githubusercontent.com/27005975/103719901-1bad0000-4ff0-11eb-8d84-5b8638fde84d.jpg
