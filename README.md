@@ -11,4 +11,4 @@ rich use of the download manager.
 
 
 
-<img src="https://user-images.githubusercontent.com/27005975/103719901-1bad0000-4ff0-11eb-8d84-5b8638fde84d.jpg" width="500" height="1000"/>
+<img src="https://user-images.githubusercontent.com/27005975/103719901-1bad0000-4ff0-11eb-8d84-5b8638fde84d.jpg" width="400" height="700"/>
